@@ -1,0 +1,29 @@
+{
+  "name": "git-intro",
+  "version": "1.0.0",
+  "description": "Git Intro",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zubair001/git-intro.git"
+  },
+  "keywords": [
+    "vue",
+    "git",
+    "npm"
+  ],
+  "author": "zubairtub@gmail.com <Zubair Hossain>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zubair001/git-intro/issues"
+  },
+  "homepage": "https://github.com/zubair001/git-intro#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.1.0",
+    "vue": "^2.6.10"
+  }
+}
